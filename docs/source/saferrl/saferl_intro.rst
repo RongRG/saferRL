@@ -1,6 +1,6 @@
-==========================
+===============================
 Part 1: Key Concepts in Safe RL
-==========================
+===============================
 
 
 .. contents:: Table of Contents
@@ -13,7 +13,7 @@ Welcome to our introduction to safe reinforcement learning! Here, we aim to acqu
 * and a little bit of the core math that underlies the algorithms.
 
 Why Safe RL?
-===============
+============
 
 
 Key Concepts and Terminology

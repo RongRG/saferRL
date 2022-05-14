@@ -1,12 +1,13 @@
-============================
+===============================
 Constrained Policy Optimization
-============================
+===============================
 
 .. contents:: Table of Contents
 
 
 Background
 ==========
+
 
 Quick Facts
 -----------
@@ -20,6 +21,7 @@ Pseudocode
 
 References
 ==========
+
 
 Relevant Papers
 ---------------

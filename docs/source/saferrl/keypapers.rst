@@ -15,18 +15,18 @@ a. Deep Q-Learning
 ------------------
 
 
-.. [#] `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **Algorithm: DQN.**
+.. `Playing Atari with Deep Reinforcement Learning <https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf>`_, Mnih et al, 2013. **Algorithm: DQN.**
 
 
 b. Policy Gradients
 -------------------
 
 
-.. [#] `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **Algorithm: A3C.**
+.. `Asynchronous Methods for Deep Reinforcement Learning <https://arxiv.org/abs/1602.01783>`_, Mnih et al, 2016. **Algorithm: A3C.**
 
 
 2. Model-Free RL
-==============
+================
 
 a. safe exploration
 -----------------------
