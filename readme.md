@@ -24,3 +24,5 @@ If you reference or use SaferRL in your research, please cite:
     year = {2022}
 }
 ```
+
+Stay safe and happy reinforcement learning!
