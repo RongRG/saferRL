@@ -14,11 +14,7 @@ Welcome to SaferRL!
    :caption: User Documentation
 
    user/introduction
-   user/installation
-   user/algorithms
-   user/running
-   user/saving_and_loading
-   user/plotting
+
 
 .. toctree::
    :maxdepth: 2
@@ -32,7 +28,6 @@ Welcome to SaferRL!
    :caption: Resources
 
    saferrl/keypapers
-   saferrl/bench
 
 .. toctree::
    :maxdepth: 2
