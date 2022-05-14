@@ -3,7 +3,7 @@ Welcome to SaferRL!
 
 **SaferRL** is a Python library that makes it easier to learn about safe reinforcement learning.
 
-.. image:: images/spinning-up-in-rl.png
+.. image:: images/ride-a-bike.png
 
 .. note::
 
@@ -24,9 +24,8 @@ Welcome to SaferRL!
    :maxdepth: 2
    :caption: Introduction to Safe RL
 
-   saferrl/rl_intro
-   saferrl/rl_intro2
-   saferrl/rl_intro3
+   saferrl/saferl_intro
+   
 
 .. toctree::
    :maxdepth: 2
@@ -40,7 +39,6 @@ Welcome to SaferRL!
    :caption: Algorithms Docs
 
    algorithms/cpo
-   algorithms/lambda
 
 .. toctree::
    :maxdepth: 2
