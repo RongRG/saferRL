@@ -3,8 +3,6 @@ Welcome to SaferRL!
 
 **SaferRL** is a Python library that makes it easier to learn about safe reinforcement learning.
 
-.. image:: images/ride-a-bike.png
-
 .. note::
 
    This project is under active development.
