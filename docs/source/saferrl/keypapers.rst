@@ -7,6 +7,7 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 .. contents:: Table of Contents
     :depth: 2
 
+.. _`Citations below.`:
 
 1. General review
 =================
