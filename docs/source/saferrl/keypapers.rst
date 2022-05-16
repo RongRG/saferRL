@@ -10,9 +10,13 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 1. General review
 =================
 
-.. # `Unsolved Problems in ML Safety <https://arxiv.org/pdf/2109.13916.pdf>`_, Hendrycks et al, 2022.
-.. # `Concrete Problems in AI Safety <https://arxiv.org/pdf/1606.06565.pdf>`_, Amodei et al, 2016.
-.. # `A Comprehensive Survey on Safe Reinforcement Learning <https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf>`_, García et al, 2015.
+a. Deep Q-Learning
+------------------
+
+
+.. [#] `Unsolved Problems in ML Safety <https://arxiv.org/pdf/2109.13916.pdf>`_, Hendrycks et al, 2022.
+.. [#] `Concrete Problems in AI Safety <https://arxiv.org/pdf/1606.06565.pdf>`_, Amodei et al, 2016.
+.. [#] `A Comprehensive Survey on Safe Reinforcement Learning <https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf>`_, García et al, 2015.
 
 2. Model-free RL
 ================
