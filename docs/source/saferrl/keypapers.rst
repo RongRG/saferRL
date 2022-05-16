@@ -45,6 +45,7 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 #. `Learning to be Safe: Deep RL with a Safety Critic <https://arxiv.org/pdf/2010.14603.pdf>`_, Srinivasan et al, 2020
 
 5. Ensemble Learning
+====================
 
 #. `Gerneralzieing from a Few Environments in Safety-critical Reinforcement Learning <https://arxiv.org/pdf/1907.01475.pdf>`_, Kenton et al, 2019
 
