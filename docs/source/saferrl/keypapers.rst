@@ -23,5 +23,14 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 
 #. `Projection-based Constrained Policy Optimization <https://openreview.net/pdf?id=rke3TJrtPS>`_, Yang et al, 2020.
 
-2. Model-based RL
+#. `Lyapunov-based Safe Policy Optimization for Continuous Control <https://openreview.net/pdf?id=SJgUYBVLsN>`_, Chow et al, 2019
+
+#. `Batch Policy Learning under Constraints <http://proceedings.mlr.press/v97/le19a/le19a.pdf>`_, Le et al, 2019 
+
+
+3. Model-based RL
 =================
+
+#. `Safe Model-based Reinforcement Learning with Stability Guarantees <https://proceedings.neurips.cc/paper/2017/file/766ebcd59621e305170616ba3d3dac32-Paper.pdf>`_, Berkenkamp et al, 2017 
+
+#. `Constrained model predictive control: Stability and optimality <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.231.3109&rep=rep1&type=pdf>`_, Mayne et al, 2000
