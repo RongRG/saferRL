@@ -54,4 +54,4 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 6. Human in The Loop
 ====================
 
-##. `Trial without Error: Towards Safe Reinforcement Learning via Human Intervention <http://arxiv.org/abs/1707.05173>`_, Saunders et al, 2017
+#. `Trial without Error: Towards Safe Reinforcement Learning via Human Intervention <http://arxiv.org/abs/1707.05173>`_, Saunders et al, 2017
