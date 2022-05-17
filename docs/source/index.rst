@@ -26,6 +26,7 @@ Welcome to SaferRL!
    :caption: Resources
 
    saferrl/keypapers
+   saferrl/benchmarks
 
 .. toctree::
    :maxdepth: 2
