@@ -83,5 +83,5 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 9. Formal Methods
 =================
 
-#. `Verifiably Safe Exploration for End-to-End Reinforcement Learning <https://dl.acm.org/doi/pdf/10.1145/3447928.3456653>`_, Hunt et al, 2021. See `Guarantee Safety in Training and Testing <https://vsrl-experiment.mybluemix.net/>` for related work.
+#. `Verifiably Safe Exploration for End-to-End Reinforcement Learning <https://dl.acm.org/doi/pdf/10.1145/3447928.3456653>`_, Hunt et al, 2021. See also `Guarantee Safety in Training and Testing <https://vsrl-experiment.mybluemix.net/>`_ for related work.
 
