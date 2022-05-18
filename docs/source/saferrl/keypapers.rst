@@ -78,3 +78,10 @@ What follows is a list of papers in Safe RL that are worth reading. This is *far
 #. `Risk-Aware Transfer in Reinforcement Learning using Successor Features <https://proceedings.neurips.cc/paper/2021/file/90610aa0e24f63ec6d2637e06f9b9af2-Paper.pdf>`_, Gimelfarb et al, 2021
 
 #. `Exponential Bellman Equation and Improved Regret Bounds for Risk-Sensitive Reinforcement Learning <https://proceedings.neurips.cc/paper/2021/file/ab6439fa2daf0246f92eea433bca5ac4-Paper.pdf>`_, Fei et al, 2021
+
+
+9. Formal Methods
+=================
+
+#. `Verifiably Safe Exploration for End-to-End Reinforcement Learning <https://dl.acm.org/doi/pdf/10.1145/3447928.3456653>`_, Hunt et al, 2021. See `Guarantee Safety in Training and Testing <https://vsrl-experiment.mybluemix.net/>` for related work.
+
